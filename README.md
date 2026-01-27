@@ -89,35 +89,6 @@
 
 ---
 
-## 🧠 Technical Skills
-
-**Core:**  
-- Java, Spring Boot, Hibernate  
-- React.js, JavaScript, HTML, CSS  
-- SQL, PL/SQL  
-
-**Database:**  
-- MySQL, Oracle  
-
-**Testing & Tools:**  
-- Manual Testing, Selenium WebDriver  
-- TestNG, Maven  
-- Postman, Git, GitHub  
-- Eclipse, IntelliJ IDEA, VS Code  
-
-**Operating Systems & Scripting:**  
-- Linux  
-- Shell Scripting  
-
-**Concepts:**  
-- RESTful APIs  
-- MVC Architecture  
-- Page Object Model (POM)  
-- SDLC & STLC  
-- Agile Methodology  
-
----
-
 ## 🏆 Achievements & Highlights
 - Completed multiple **end-to-end full-stack projects**  
 - Built **real-time applications** using WebSocket & JWT  
