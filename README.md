@@ -20,11 +20,13 @@
 - Advanced Spring Boot & Microservices  
 - PL/SQL & Advanced SQL  
 - Manual Testing concepts & Selenium basics  
+- Linux & Shell Scripting fundamentals  
 
 💬 **Ask me about**  
 - Java, Spring Boot, REST APIs, JWT  
 - React.js & Full-stack projects  
 - SQL & PL/SQL basics  
+- Manual Testing & Selenium  
 - Academic & real-world projects  
 
 ⚡ **Fun fact**  
@@ -77,11 +79,65 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell Script](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🧠 Technical Skills
+
+**Core:**  
+- Java, Spring Boot, Hibernate  
+- React.js, JavaScript, HTML, CSS  
+- SQL, PL/SQL  
+
+**Database:**  
+- MySQL, Oracle  
+
+**Testing & Tools:**  
+- Manual Testing, Selenium WebDriver  
+- TestNG, Maven  
+- Postman, Git, GitHub  
+- Eclipse, IntelliJ IDEA, VS Code  
+
+**Operating Systems & Scripting:**  
+- Linux  
+- Shell Scripting  
+
+**Concepts:**  
+- RESTful APIs  
+- MVC Architecture  
+- Page Object Model (POM)  
+- SDLC & STLC  
+- Agile Methodology  
+
+---
+
+## 🏆 Achievements & Highlights
+- Completed multiple **end-to-end full-stack projects**  
+- Built **real-time applications** using WebSocket & JWT  
+- Strong hands-on experience in **Spring Boot backend development**  
+- Active in debugging, bug fixing, and optimization  
+- Preparing for **Java Backend / QA roles**
+
+---
+
+## 🧪 Testing Experience
+- Manual Testing: Smoke, Sanity, Regression  
+- Test case & scenario creation  
+- Selenium Automation using TestNG  
+- Defect life cycle & bug reporting  
+- API testing with Postman  
+
+---
+
+## 🎯 Career Objective
+Entry-level **Java / Backend / QA Engineer** with strong fundamentals in Java, Spring Boot, SQL, and Manual Testing. Passionate about clean code, scalable systems, and continuous learning.
 
 ---
 
