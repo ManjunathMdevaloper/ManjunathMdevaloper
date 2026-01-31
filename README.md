@@ -141,10 +141,3 @@ Entry-level **Java / Backend / QA Engineer** with strong fundamentals in Java, S
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManjunathMdevaloper&theme=dark&layout=compact)
 
 ---
-
-### 🔝 Top Contributed Repositories
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=ManjunathMdevaloper&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=ManjunathMdevaloper&icon=0&color=0)
