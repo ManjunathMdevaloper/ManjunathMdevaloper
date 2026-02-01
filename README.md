@@ -136,7 +136,6 @@ Entry-level **Java / Backend / QA Engineer** with strong fundamentals in Java, S
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManjunathMdevaloper&theme=dark&hide_border=false)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ManjunathMdevaloper&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManjunathMdevaloper&theme=dark&layout=compact)
 
